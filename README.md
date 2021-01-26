@@ -12,7 +12,4 @@
     <br> Linkedin <a href="https://www.linkedin.com/in/labiba-islam/">https://www.linkedin.com/in/labiba-islam/</a>
   </samp>
   <img src="https://media.giphy.com/media/J4803rJjCrqrRpU47f/source.gif" width="50px">   
-  <samp>
-src="https://media.giphy.com/media/hWM5xcVje9cQscDLbP/source.gif" width="20px">
-  </samp>
 </p>
