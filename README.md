@@ -4,7 +4,7 @@
   <br><br>
   <samp>
     :wave: Hi ツ It's me, Labiba 
-    <br> I am a software devaloper 
+    <br> I am a software developer 
       <br> who enjoys working on Data Science and Backend applications  
      <br> <img src="https://media.tenor.com/images/6edf48d0aa6b5f038d1bef0e86d6698d/tenor.gif" width="100px"><br><br>
     <br><br> Let's talk? @ 
